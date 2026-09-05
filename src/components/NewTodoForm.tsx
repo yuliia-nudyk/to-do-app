@@ -1,4 +1,4 @@
-import { FormEvent } from 'react';
+import type { FormEvent } from 'react';
 import { useTodoActions } from '../hooks/useTodoActions';
 import { useTodoForm } from '../hooks/useTodoForm';
 
